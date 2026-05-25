@@ -1,1 +1,2 @@
-![Dashboard]papollo_dashboard.jpg
+![Dashboard](papollo_dashboard.jpg)
+
